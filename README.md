@@ -33,7 +33,7 @@ if your screen doesnt turn black at this stage, you may need to try again, this 
 
 however, if your device screen turns black, you are broken from jail! (jailbroken!)
 
-###QnA
+### QnA
 
 Q: my device isnt turning on, what do i do?
 A: as i said at the beginning, data loss may occur, you should have backed up your data here.
