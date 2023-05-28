@@ -1,37 +1,39 @@
-# hammerJB
+# s1nkbyp4ss
 ### for all iOS devices and versions
-100% real, no verification, 2023, working, comes with saily and cydia
+100% real, no verification, 2023, working, comes with saily and cydia, free, A12-A16, purple mode
 (loss of data MAY occur, back up device beforehand)
+
+## What is this this this this this this
+
+this is an icloud bypasss tool for both A11 and bleow and A12 and above. this even truns off find my iphone.
 
 ## what u will need
 
-a hammer from the hardware store, DIY ones do work but the success rate is lower
+a sink, hopefully u have one, espically if u have internet access
 
-an iOS device on any iOS (ipad or iphone), other apple products will probably work with this also
+an iOS device on any iOS (ipad or iphone), other apple products will probably work with this also, that is icloud locked.
 
 ## how 2 complete
 
 #### initial setup
 
-for best results and to prevent damage to other items, its ideal to set your device ontop of a brick or something similar, sidewalk/pavement works well in this situation
+for best results and to prevent damage to other items, its ideal to remove everything fron the sink aswell as everythign near the sink.
 
-also, its a good idea to make sure ur hammer is made from metal and very strong
+also, its a good idea to make sure ur sink is in the counter, not above. 
 
-#### the jelbrek
+#### the bypass
 
-now is a good time to turn ur idevice or ipad is ON, for best results that battery and cpu has to be running hot (at least 69°C)
+now is a good time to turn ur idevice or ipad is ON, for best results that battery and cpu has to be running very hot or cold (at least 69°C for hot or -69°C for cold)
 
-equip your hammer in your hand (left or right should do)
+throw it in the sink 
 
-swing back so the hammer just passess your ear
+turn on the hot or cold water 
 
-make sure the trajectory of the hammer is aimed for your idevice or ipad
+make sure the heat or coldness is max
 
-power that hammer full force at your device or ipad, make sure it hits the center full force
+if your screen doesnt turn black at this stage, you may need to try again, this can take a few tries as the exploit is unc0ver 8.0 level reliable sometimes.
 
-if your screen doesnt turn black at this stage, you may need to try again, this can take a few tries as the exploit isnt reliable
-
-however, if your device screen turns black, you are broken from jail! (jailbroken!)
+however, if your device screen turns black, you are have your device FMI off.
 
 ### QnA
 
@@ -40,3 +42,6 @@ A: as i said at the beginning, data loss may occur, you should have backed up yo
 
 Q: theres smoke coming from my device, is this normal?
 A: yes, this is normal and may happen to some devices
+
+##### credits:
+https://github.com/ElliesSurviving/hammerJB hammerJB for initla code.
