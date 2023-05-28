@@ -25,6 +25,9 @@ also, its a good idea to make sure ur sink is in the counter, not above.
 
 now is a good time to turn ur idevice or ipad is ON, for best results that battery and cpu has to be running very hot or cold (at least 69°C for hot or -69°C for cold)
 
+Fix fro iphone 14 pro 16.0.3 and 11 pro max 15.2:
+remove the pentalobe screws and lift up the screen, DO NOT RIP THE RIBBION CABELS. 
+
 throw it in the sink 
 
 turn on the hot or cold water 
